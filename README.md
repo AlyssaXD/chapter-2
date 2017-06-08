@@ -1,22 +1,21 @@
 <h1>Chapter 2</h2>
-<h3>Student will understand how to use data and data types</h3>
+<h3>Objective: Student will understand how to use data and data types</h3>
 
 
-Using Data
-Assignments answer each of these in your Google Site
-Page 58 figure 2-1 using Concatenated "+" and page 60
-You Do It  page 62
-What are Integer Data Types page 64
-What is the Boolean Data Types page 70 
-What is the Char Data type page 73
-Page 83 do figure 2-21 in Eclipse
-Page 84 complete You Do It
-Page 88 Complete figure 2-26 in Eclipse
-Page 90 Complete figure 2-30 in Eclipse
-Page 91 complete figure 2-32 in Eclipse
-Page 97 complete figure 2-37 in Eclipse
-Page 98 You Do It
-Page 104 You Do it
+Using Data<br>
+Page 58 figure 2-1 using Concatenated "+" and page 60<br>
+You Do It  page 62<br>
+What are Integer Data Types page 64<br>
+What is the Boolean Data Types page 70 <br>
+What is the Char Data type page 73<br>
+Page 83 do figure 2-21 in Eclipse<br>
+Page 84 complete You Do It<br>
+Page 88 Complete figure 2-26 in Eclipse<br>
+Page 90 Complete figure 2-30 in Eclipse<br>
+Page 91 complete figure 2-32 in Eclipse<br>
+Page 97 complete figure 2-37 in Eclipse<br>
+Page 98 You Do It<br>
+Page 104 You Do it<br>
 
 <h3>This all goes into your Chapter 2 Portfolio</h3> 
 What is the Scanner Class?
