@@ -1,0 +1,27 @@
+Vocabulary Words for Chapter 2
+Constant 
+Literal Constant
+Numeric Constant
+Data Type
+Camel Casing
+initialization
+named constant
+Scope
+Concatenated
+null
+integer or int
+byte
+short
+long 
+floating point
+float
+double
+Char
+String
+escape sequence
+Parse
+Integer Division
+Remainder operator
+Modulus Operator
+Operator precedence
+Input Dialog Box
