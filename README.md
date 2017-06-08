@@ -23,6 +23,6 @@ What are Floating Data points? How did they use this information for the Superma
 What is the JOptionPane Class? How does it work?, What is the library input?<br>
 Programming Exercises 4-8  page 115<br>
 Game Zone Page 117 Number 1 and 2 <br>
-Mad Libs<br>
+Mad Libs <br> 
 Random Guess Match (#9 on page 115)<br>
 <img src ="chapter2Rubric.jpg">
